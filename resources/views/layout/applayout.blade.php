@@ -81,6 +81,9 @@
 
         <!-- content -->
         @yield('main_content')
+        <!-- footer -->
+        @include('layout.footer')
+        <!-- footer end -->
         <!-- content -->
     </div>
     <!-- wrapper end -->
