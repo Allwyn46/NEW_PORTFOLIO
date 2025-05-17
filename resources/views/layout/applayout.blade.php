@@ -43,7 +43,7 @@
         <!-- cursor end -->
 
         <!-- preloader -->
-        @include('layout.preloader')
+        {{-- @include('layout.preloader') --}}
         <!-- preloader end -->
 
         <!-- scrollbar progress -->
